@@ -1,5 +1,5 @@
 # Breast Cancer Classification using ML
-This project is a part of the ADS-502 course in the Applied Data Science Program at the University of San Diego. 
+This project is a part of the ADS-502 course in the Applied Data Science Program at the University of San Diego. <br>
 -- Project Status: [Completed]
 
 # Objective
